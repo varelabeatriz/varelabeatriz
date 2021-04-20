@@ -2,7 +2,7 @@
 
 - 💻 Computer Engineering student 
 - 📍 From SP - Brazil 
-- 📚 Currently studying React.js and Node.js
+- 📚 Currently studying React.js 
 - 💼 Looking for an internship or working as a Junior developer
 - ✨Sharing tips and what I'm learning at [VarelaCodes](https://www.instagram.com/varelacodes/?hl=pt-br) !
 

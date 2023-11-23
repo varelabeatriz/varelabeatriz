@@ -1,6 +1,6 @@
 # Hi There, I'm Beatriz! 👋
 
-- 💻 Computer Engineering student 
+- 💻 Bachelor's degree in computer engineering
 - 📍 From SP - Brazil 
 - 💼 Front-end developer at Webjump
 

@@ -1,4 +1,4 @@
-# Hi There, I'm Beatriz! 👋
+# Hi, I'm Beatriz Varela! 👋
 
 - 💻 Bachelor's degree in computer engineering
 - 📍 From SP - Brazil 
